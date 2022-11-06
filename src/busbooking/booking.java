@@ -30,7 +30,7 @@ public class booking extends javax.swing.JFrame
     
     Connection con;
     PreparedStatement pst;
-     PreparedStatement pst1;
+    PreparedStatement pst1;
     ResultSet rst;
 
     
